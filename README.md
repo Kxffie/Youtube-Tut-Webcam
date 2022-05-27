@@ -13,6 +13,6 @@ Edit the main.py file to change some things to your need. If you need help editi
 
 ## Links
 
-[Youtube Video - My New Custom Videocam // Python OpenCV // Kxffie](https://bit.ly/3a2bkJO)<br />
+[Related Video - My New Custom Videocam // Python OpenCV // Kxffie](https://bit.ly/3a2bkJO)<br />
 [Youtube Channel - Kxffie](https://bit.ly/3lRgN8V)<br />
 [Discord](https://bit.ly/38Le2mN)<br />
